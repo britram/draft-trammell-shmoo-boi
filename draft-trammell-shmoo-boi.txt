@@ -1,0 +1,92 @@
+
+
+
+
+Network Working Group                                        B. Trammell
+Internet-Draft                                   Google Switzerland GmbH
+Intended status: Informational                          20 November 2020
+Expires: 24 May 2021
+
+
+                            A BoF-Only IETF
+                    draft-trammell-shmoo-boi-latest
+
+Abstract
+
+   This document proposes a model for running IETF meetings that aims to
+   maximize the value of coordinated face-to-face time at the three
+   annual plenary meetings while enabling established working groups to
+   make progress in a more asynchronous manner... [WORK POINTER]
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/britram/draft-trammell-shmoo-boi.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 24 May 2021.
+
+Copyright Notice
+
+   Copyright (c) 2020 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Simplified BSD License text
+   as described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Simplified BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Assumptions
+   3.  A BoF-Mostly IETF
+     3.1.  Pandemic Phase
+     3.2.  Pandemic Recovery Phase
+     3.3.  Post Pandemic Phase
+   4.  Acknowledgments
+   Author's Address
+
+1.  Introduction
+
+2.  Assumptions
+
+3.  A BoF-Mostly IETF
+
+3.1.  Pandemic Phase
+
+3.2.  Pandemic Recovery Phase
+
+3.3.  Post Pandemic Phase
+
+4.  Acknowledgments
+
+Author's Address
+
+   Brian Trammell
+   Google Switzerland GmbH
+   Gustav-Gull-Platz 1
+   CH- 8004 Zurich
+   Switzerland
+
+   Email: ietf@trammell.ch
